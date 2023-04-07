@@ -19,14 +19,11 @@ Okay.. so looks like [this project](https://github.com/google/eleventy-high-perf
 
 ![blog stats](../../../../../img/blog_stats.png)
 
-Just a few modifications here and there to the formatting to include the profile seen on the right --->
+Just a few modifications here and there to the formatting to include the profile seen on the right (or bottom on mobile) --->
 
 Maybe change some colors.
 
 <span style="color:yellow">color</span> -> <span style="color:orange">color</span>
-
-
-
 
 Now for deploying.. looks like it comes baked with a deploy to vercel button... close enough to netlify.
 
@@ -43,7 +40,8 @@ And you can even add an <a href="https://github.com/kataqatsi/kataqatsi_blog/edi
 You can check the lighthouse rating by:
 - right clicking the page
 - inspect
+- go to here:
 - ![blog stats](../../../../../img/lighthouse.png)
-- click analyze
+- then click analyze
 
 Feel free to throw it a star on [github](https://github.com/kataqatsi/kataqatsi_blog).
