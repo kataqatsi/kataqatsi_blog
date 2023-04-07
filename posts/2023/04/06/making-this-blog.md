@@ -30,9 +30,6 @@ Maybe change some colors.
 
 Now for deploying.. looks like it comes baked with a deploy to vercel button... close enough to netlify.
 
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fgoogle%2Feleventy-high-performance-blog)
-
 Just connect the domain name on vercel
 
 [kataqatsi-blog.vercel.app](https://kataqatsi-blog.vercel.app) -> [kataqatsi.com](https://kataqatsi.com)
