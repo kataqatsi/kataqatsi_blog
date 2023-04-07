@@ -19,7 +19,7 @@ Okay.. so looks like [this project](https://github.com/google/eleventy-high-perf
 
 ![blog stats](../../../../../img/blog_stats.png)
 
-Just a few modifications here and there to the formatting to include the profile on the right seen on the right --->
+Just a few modifications here and there to the formatting to include the profile seen on the right --->
 
 Maybe change some colors.
 
