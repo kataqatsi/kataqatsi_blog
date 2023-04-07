@@ -17,7 +17,7 @@ Sounds like I could use a static site generator and throw it on a cdn like netli
 
 Okay.. so looks like [this project](https://github.com/google/eleventy-high-performance-blog) has a perfect score on lighthouse and would make a perfect base to start from.
 
-![blog stats](../../../../img/blog_stats.png)
+![blog stats](../../../../../img/blog_stats.png)
 
 Just a few modifications here and there to the formatting to include the profile on the right seen on the right --->
 
@@ -41,6 +41,6 @@ and voila!
 
 Pretty easy to set up, free, and highly performant.
 
-And you can even add an <a href="https://github.com/kataqatsi/kataqatsi_blog/edit/main/./posts/2023/04/06/hello-world.md">Edit on GitHub</a> link so readers can help edit!
+And you can even add an <a href="https://github.com/kataqatsi/kataqatsi_blog/edit/main/./posts/2023/04/06/making-this-blog.md">Edit on GitHub</a> link so readers can help edit!
 
 Feel free to throw it a star on [github](https://github.com/kataqatsi/kataqatsi_blog).
