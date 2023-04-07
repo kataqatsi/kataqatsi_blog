@@ -40,4 +40,10 @@ Pretty easy to set up, free, and highly performant.
 
 And you can even add an <a href="https://github.com/kataqatsi/kataqatsi_blog/edit/main/./posts/2023/04/06/making-this-blog.md">Edit on GitHub</a> link so readers can help edit!
 
+You can check the lighthouse rating by:
+- right clicking the page
+- inspect
+- ![blog stats](../../../../../img/lighthouse.png)
+- click analyze
+
 Feel free to throw it a star on [github](https://github.com/kataqatsi/kataqatsi_blog).
